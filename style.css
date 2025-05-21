@@ -480,4 +480,13 @@ h2 {
     width: 100%;
     height: auto;
   }
+  .hero-img {
+  width: 500px;
+  height: 500px;
+}
+@media (max-width: 599px) {
+.social-icons a img {
+  width: 100px;
+  height: 100px;
+}
 }
